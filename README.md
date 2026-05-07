@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist passionate about leveraging machine learning<br> to solve real-world problems. <br>Skilled in building, training, and<br> deploying machine learning models
+Passionate in data .Specialised in data endgineering building pipleines ,dbt models ,datawarehousing and migrations .Apart from Data Engineering also passionate about leveraging machine learning<br> to solve real-world problems. <br>Skilled in building, training, and<br> deploying machine learning models. Skilled also in the world of Analytics guesse you can call me your DATA GUY.
 
 
 ## 🌐 Socials:
