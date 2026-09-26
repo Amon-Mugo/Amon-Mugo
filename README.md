@@ -31,10 +31,6 @@ I'm a data engineer specialising in production-grade pipelines — dbt models, d
 
 <div width="100%" align="center"><a href="https://github.com/Amon-Mugo/Devmin IDE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amon-Mugo&repo=Devmin IDE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amon-Mugo/Kenya Ecomony Platform" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amon-Mugo&repo=Kenya Ecomony Platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Amon"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
